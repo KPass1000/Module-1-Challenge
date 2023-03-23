@@ -27,25 +27,36 @@ In conclusion, Coinbase has become one of the largest cryptocurrency exchanges i
 ## Sources
 The Evolution of DeFi and the Emergence of DeFi Derivatives
 https://www.coindesk.com/coindesk-indices/2023/03/02/the-evolution-of-defi-and-the-emergence-of-defi-derivatives/
+
 Coinbase Review 2023
 https://www.nerdwallet.com/reviews/investing/brokers/coinbase
+
 Emerging Trends in Blockchain Technology and Applications: A Review and Outlook
 https://www.sciencedirect.com/science/article/pii/S1319157822000891
+
 Top Coinbase Competitors and Alternatives
 https://craft.co/coinbase/competitors
+
 Crypto Exchange Wars: How Coinbase Stacks Up Against Its Rivals
 https://www.toptal.com/finance/blockchain/coinbase
+
 Blockdata | Top Banks Investing in Crypto and Blockchain
 https://www.blockdata.tech/blog/general/top-banks-investing-in-crypto-and-blockchain-may-2022-update
+
 Coinbase Shares Are Up 60% in the Last Month
 https://www.fool.com/investing/2022/08/20/coinbase-shares-up-last-month-should-you-buy/
+
 2022 Crypto-Exchange Fee Comparison
 https://www.cointracker.io/blog/2019-crypto-exchange-fee-comparison
+
 Top Cryptocurrency Exchanges Ranked By Volume
 https://coinmarketcap.com/rankings/exchanges/
+
 Bitso Review 2023: An Ultimate Guide For Trading Coins!
 https://www.cryptonewsz.com/cryptocurrency-exchange/bitso-review/
+
 The Impact of Robo-Advisers on Financial Services
 https://www.idexconsulting.com/blog/2018/03/the-impact-of-robo-advisers-on-the-financial-services-market?source=google.com
+
 Robo Advisor Development for Fintech: What You Need to Know
 https://surf.dev/robo-advisor-development-for-fintech-what-you-need-to-know/
